@@ -1,4 +1,4 @@
-#Open Policy Agent for Docker
+# Open Policy Agent for Docker
 
 Docker image for playing around with [Open Policy Agent](https://www.openpolicyagent.org/).
 
